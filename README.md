@@ -6,3 +6,4 @@ Esto es una práctica de GIT
 - Enviar los cambios a GitHub (git pull)
 Es todo!
 Otra vez un cambio de nuevo
+<http://escuelait>
